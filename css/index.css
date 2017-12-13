@@ -74,19 +74,18 @@
     font-size: 4em;
     color: #ffffff;
     font-weight: bold;
-    left: -0.5%;
+    left: 1%;
 }
  .s1-p,.s1-p p{
-     width: 344.81px;
-     height: 96px;
+     width:75%;
      position: absolute;
-     top: 25%;
+     top: 26%;
  }
  .s1-main{
      color:#3edcfe;
      position:absolute;
      top:55%;
-     font-size: 30px;
+     font-size: 1.4em;
      text-shadow: none;
      line-height: 1;
      letter-spacing: 0.1em;
